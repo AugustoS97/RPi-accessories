@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name EditedLib)(type Legacy)(uri ${KIPRJMOD}/libraries/EditedLib.lib)(options "")(descr ""))
+  (lib (name DcDc_stepdown_lm2596)(type Legacy)(uri ${KIPRJMOD}/libraries/DcDc_stepdown_lm2596.lib)(options "")(descr ""))
+)

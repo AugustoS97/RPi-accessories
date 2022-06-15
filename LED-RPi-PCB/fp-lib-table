@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name EditedLib)(type KiCad)(uri ${KIPRJMOD}/libraries/EditedLib.pretty)(options "")(descr ""))
+  (lib (name logos_pcb)(type KiCad)(uri ${KIPRJMOD}/libraries/logos_pcb.pretty)(options "")(descr ""))
+)
