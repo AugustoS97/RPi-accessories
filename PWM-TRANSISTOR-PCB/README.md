@@ -2,11 +2,11 @@
 
 Módulo para el control PWM de cualquier elemento que trabaje con tensión igual o superior a la de alimentación.
 
-![Render Perspectiva](/RENDER/RenderPerspectiva_1.png)
+![Render Perspectiva](./RENDER/RenderPerspectiva_1.png)
 
-![Render TOP](/RENDER/RenderTOP.png)
+![Render TOP](./RENDER/RenderTOP.png)
 
-![Render TOP](/RENDER/RenderBottom.png)
+![Render TOP](./RENDER/RenderBottom.png)
 
 - Corriente máxima: 600mA
 - Potencia máxima: 625mW
