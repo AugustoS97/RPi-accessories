@@ -3,11 +3,11 @@
 Módulo de expansión para Rapsberry Pi. Permite alimentar RPi desde una fuente externa superior a 5V, incorpora un módulo para control PWM de una salida, LEDs indicadores de Estado y de Alimentación, Fusible de Protección, y pines de expansión para aumentar las conexiones de 3.3V y 5V. Diseñado para ser utilizado en el [NAS expuesto aquí](https://github.com/AugustoS97/Raspberry-Pi-NAS).
 
 
-![Render Perspectiva](/RENDER/RenderPerspectiva.png)
+![Render Perspectiva](./RENDER/RenderPerspectiva.png)
 
-![Render TOP](/RENDER/RenderTop.png)
+![Render TOP](./RENDER/RenderTop.png)
 
-![Render TOP](/RENDER/RenderBottom.png)
+![Render TOP](./RENDER/RenderBottom.png)
 
 ## Características
 
